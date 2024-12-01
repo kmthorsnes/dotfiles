@@ -38,3 +38,4 @@ cask "logi-options-plus"
 cask "displayink"
 cask "monitorcontrol"@
 cask "spotify"
+cask "bettertouchtool"
