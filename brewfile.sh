@@ -39,3 +39,4 @@ cask "displayink"
 cask "monitorcontrol"@
 cask "spotify"
 cask "bettertouchtool"
+cask "loop"
