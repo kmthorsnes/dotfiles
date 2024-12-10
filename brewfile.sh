@@ -40,3 +40,4 @@ cask "monitorcontrol"@
 cask "spotify"
 cask "bettertouchtool"
 cask "loop"
+cask "itsycal"
