@@ -18,11 +18,13 @@ tap "schniz/tap"
 brew "python"
 brew "node"
 brew "gh"
-brew "neovim" 
+brew "neovim"
+brew "trash" 
 
 # Cask
 cask "appcleaner"
 cask "visual-studio-code"
+cask 
 cask "alfred"
 cask "github"
 cask "warp"
@@ -36,7 +38,7 @@ cask "safeincloud-password-manager"
 cask "rectangle"
 cask "logi-options-plus"
 cask "displayink"
-cask "monitorcontrol"@
+cask "monitorcontrol"
 cask "spotify"
 cask "bettertouchtool"
 cask "loop"
