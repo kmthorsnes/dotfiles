@@ -1,0 +1,6 @@
+#git
+alias gs="git status"
+alias go="git checkout"
+
+# Zsh 
+alias reload="source ~/.zshrc"
